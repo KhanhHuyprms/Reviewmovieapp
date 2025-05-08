@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "101856823803",
+    "firebase_url": "https://phimnew-default-rtdb.firebaseio.com",
+    "project_id": "phimnew",
+    "storage_bucket": "phimnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101856823803:android:99181432587819d260635e",
+        "android_client_info": {
+          "package_name": "com.example.doantotnghiep_xemphim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetyiyEXOvS7YMnpTE1LKNveY5efwnfqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101856823803:android:0a7fd480575c06de60635e",
+        "android_client_info": {
+          "package_name": "com.pro.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetyiyEXOvS7YMnpTE1LKNveY5efwnfqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101856823803:android:1c58bf248138e09360635e",
+        "android_client_info": {
+          "package_name": "com.shiro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetyiyEXOvS7YMnpTE1LKNveY5efwnfqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
